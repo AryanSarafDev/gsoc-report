@@ -13,7 +13,6 @@ _Mentor: [Rijuth Menon](https://github.com/MarkisDev)_ <br/>
 - [What's new (GSOC'24)](#what's-new)
 - [Future Plans](#future-plans)
 - [Community](#community)
-- [Flutter](#flutter)
 
 ## What's New?
 During the GSOC'24 period, the following features were implemented by Contributor Aryan Saraf:
