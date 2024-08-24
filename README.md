@@ -78,15 +78,15 @@ Issue: [#595](https://github.com/CCExtractor/ultimate_alarm_clock/issues/595), P
 
 #### Google Assistant commands
 
-- We want to add Google Assistant commands to set alarms directly without the need to open the app.
+- I want to add Google Assistant commands to set alarms directly without the need to open the app.
   
 #### Google Cloud Functions
 
-- We are working on implementing Google Cloud functions to make shared alarms more interactive by allowing users to disable or reconfigure alarms for others.
+- I am working on implementing Google Cloud functions to make shared alarms more interactive by allowing users to disable or reconfigure alarms for others.
   
 #### Architectural and Data Flow Changes
 
-- We have plans to make architectural and data flow changes within the application to enhance its overall performance and maintainability. These changes will optimize resource utilization and streamline the user experience.
+- I have plans to make architectural and data flow changes within the application to enhance its overall performance and maintainability. These changes will optimize resource utilization and streamline the user experience.
 
 ## Community
 
@@ -94,8 +94,6 @@ We would love to hear from you! You may join the CCExtractor community through S
 
 [![Slack](https://img.shields.io/badge/chat-on_slack-purple.svg?style=for-the-badge&logo=slack)](https://ccextractor.org/public/general/support/)
 
-## Flutter
+## Note
+- I thoroughly enjoyed my journey this summer working on this project, as it helped me learn so much about Flutter, Kotlin and Android development in general. Initially, I was hesitant about integrating native code with Flutter, but this project helped me become more comfortable with it. I gained a lot of valuable insights from my mentor, Rijuth Menon, who was incredibly helpful and guided me throughout the process. I am excited to continue working on this project even after the term ends!
 
-For help in getting started with Flutter, view
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
