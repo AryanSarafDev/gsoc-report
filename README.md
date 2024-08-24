@@ -3,7 +3,8 @@
 This project aims to build a non-conventional alarm clock with smart features such as auto-dismissal based on phone activity, weather and  more! It also includes challenges to ensure you completely wake up and an option to set shared alarms! This is the ULTIMATE alarm clock :)
 
 ## Google Summer of Code'24
-_Name : Abhishek_ <br/>
+_Name : Aryan Saraf_ <br/>
+_Project : [Link to GSOC Project](https://github.com/CCExtractor/ultimate_alarm_clock)_ <br/>
 _Slack : [Link to Slack ID](https://rhccgsoc15.slack.com/team/U06QWS1QC95)_ <br/>
 _GitHub Username : [AryanSarafDev](https://github.com/AryanSarafDev)_ <br/>
 _Mentor: [Rijuth Menon](https://github.com/MarkisDev)_ <br/>
@@ -29,13 +30,26 @@ Issue: [#562](https://github.com/CCExtractor/ultimate_alarm_clock/issues/562), P
 Effortlessly manage and share custom alarm profiles for different days and occasions, ensuring only the active profile’s alarms are prioritized. Alarms and profiles can now be shared with other users using their emails. In-app notifications for received alarms and profiles with the option to either accept or reject them.
 Issue: [#591](https://github.com/CCExtractor/ultimate_alarm_clock/issues/591), Pull-Request: [#584](https://github.com/CCExtractor/ultimate_alarm_clock/pull/584)
 
+<img src="./assets/Profiles.jpg" height="400" alt="profile"> 
+<img src="./assets/share1.jpg" height="400" alt="share">
+<img src="./assets/notif1.jpg" height="400" alt="notif">
+<img src="./assets/notfi2.jpg" height="400" alt="notif1">
+
+
 ### 4) Google Calendar Integration and Date-based Scheduling
 Integrate Google Calendar to import reminders, events and aggregate alarms. Users can now create alarms that can be triggered on a specific date
 Issue: [#590](https://github.com/CCExtractor/ultimate_alarm_clock/issues/590), Pull-Request: [#584](https://github.com/CCExtractor/ultimate_alarm_clock/pull/584)
 
+<img src="./assets/GCalendar.jpg" height="400" alt="gc"> 
+<img src="./assets/dateBased.jpg" height="400" alt="date">
+
 ### 5) Guardian Angel
 Set a Guardian Angel to send a call or SMS to if you fail to wake up for important events, ensuring you never miss crucial moments.
 Issue: [#592](https://github.com/CCExtractor/ultimate_alarm_clock/issues/592), Pull-Request: [#584](https://github.com/CCExtractor/ultimate_alarm_clock/pull/584)
+
+<img src="./assets/GaurdianFeat.jpg" height="400" alt="guardian"> 
+<img src="./assets/sms.jpg" height="400" alt="sms"> 
+
 
 ### 6) Anti-disturbance
 Automatically dismiss alarms if the user’s screen is on for more than X minutes, indicating they are busy and don’t need the alarm.”
@@ -49,9 +63,15 @@ Issue: [#579](https://github.com/CCExtractor/ultimate_alarm_clock/issues/579), P
 Revamped the timer with multiple timer support, an easy-to-use UI, notification display when minimized, and direct Kotlin database access for faster performance without relying on Flutter for data.
 Issue: [#564](https://github.com/CCExtractor/ultimate_alarm_clock/issues/564), Pull-Request: [#565](https://github.com/CCExtractor/ultimate_alarm_clock/pull/565)
 
+<img src="./assets/timers.png" height="400" alt="timer"> 
+<img src="./assets/Settimer.png" height="400" alt="settimer"> 
+<img src="./assets/timerNotif.png" height="400" alt="notif"> 
+
 ### 9) Ringtones
 “Added 5 new royalty-free ringtones and fixed related bugs, including erratic ringtone preview behaviour.”
 Issue: [#595](https://github.com/CCExtractor/ultimate_alarm_clock/issues/595), Pull-Request: [#596](https://github.com/CCExtractor/ultimate_alarm_clock/pull/596)
+
+<img src="./assets/ringtones.jpg" height="400" alt="ring">
 
 ### 10) UI and bug fixes
 - Fixed Scheduling logic for weekday scheduling.
@@ -59,6 +79,7 @@ Issue: [#595](https://github.com/CCExtractor/ultimate_alarm_clock/issues/595), P
 - New UI for alarm and profile setting screen.
 - Fixed existing Firebase Auth implementation.
 
+<img src="./assets/newUI.jpg" height="400" alt="ring">
 
 ## Future Plans
 
