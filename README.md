@@ -1,4 +1,4 @@
-# Ultimate Alarm Clock
+# Ultimate Alarm Clock II
 
 This project aims to build a non-conventional alarm clock with smart features such as auto-dismissal based on phone activity, weather and  more! It also includes challenges to ensure you completely wake up and an option to set shared alarms! This is the ULTIMATE alarm clock :)
 
